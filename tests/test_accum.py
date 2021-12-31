@@ -6,9 +6,7 @@ Its purpose is to show how to use pytest framework by example.
 # -----------------------------
 # Imports
 # -----------------------------
-
 import pytest
-from stuff.accum import Accumulator
 
 
 # -----------------------------
